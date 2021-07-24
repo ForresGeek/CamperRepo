@@ -1,7 +1,7 @@
 # FOR SALE - VW Crafter Campervan
 
 
-**£20,000 o.n.o.**
+**£22,000 o.n.o.**
 
 My custom-built campervan based on 2013 VW Crafter. Short wheelbase, low-roof.
 
@@ -91,10 +91,17 @@ Van was insulated with Thermolioner, natural sheeps wool, and flashband.
 
 ## Photos
 
-Lots of photos [here] (https://www.icloud.com/sharedalbum/#B11Gf693ZGpiUDZ)
+Lots of photos [here](https://www.icloud.com/sharedalbum/#B11Gf693ZGpiUDZ)
 
 ## Shopping List
 
 The attached Google sheet gives details of everything I spent bulding this vehicle.
 
 [See Here](https://docs.google.com/spreadsheets/d/1u1e6D8Eon_hKz2p8mEipF_9oJBkhiUrPWwAVnNexj8k/edit?usp=sharing)
+
+
+## The Bad News.
+
++ A few minor scratches to paintwork.
++ Small rust-bubble (1.5") on door runner.
++ Probably due new belts
