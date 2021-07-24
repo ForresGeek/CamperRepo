@@ -55,31 +55,31 @@ Van is registered with DVLA as _Motorcaravan_ therefore _CAR_ speed limits.
 
 ### Insulation
 
-Van was insulated with Thermolioner, natural sheeps wool, and flashband.
+Van was insulated with Thermoliner, natural sheep's wool, and flashband.
 
 ### Electrics
 
 + 110Ah Leisure Battery
-+ 2 x 100w Solar Panels to roof.
++ 2 x 100w Solar Panels to roof
 + MPPT Solar controller.
 + 3 x 240v Mains (when on hookup)
 + 2 x USB sockets
-+ LED lighting throughout.
-+ Touch-on LED ligts to rear.
++ LED lighting throughout
++ Touch-on LED ligts to rear
 + LED reading lights over bed
-+ Mains battery charger under passenger seat.
-+ Mains hook-up under bonnet.
++ Mains battery charger under passenger seat
++ Mains hook-up under bonnet
 + Split-charger
 
 
 ### Heating
 
-+ 2 kw Diesel Epberspacher heater - **NOT** cheap chinese clone.
++ Eberspacher D2 diesel heater - **NOT** cheap chinese clone.
 
 ### Appliances
 
-+  Dometic 2 burner Hob + Grill
-+  Top-loading compressor fridge
++  Thetford 2 burner Hob + Grill
++  Top-loading vitrifrigo compressor fridge
 +  Fire Extinguisher
 +  Smoke + Carbon monoxide detector
 
