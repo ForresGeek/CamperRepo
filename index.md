@@ -1,7 +1,7 @@
 # FOR SALE - VW Crafter Campervan
 
 
-**£22,000 o.n.o.**
+**£20,000 o.n.o.**
 
 My custom-built campervan based on 2013 VW Crafter. Short wheelbase, low-roof.
 
