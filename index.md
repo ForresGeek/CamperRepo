@@ -1,7 +1,7 @@
 # FOR SALE - VW Crafter Campervan
 
 
-**£22,000 o.n.o.**
+**£18,000 o.n.o.**
 
 My custom-built campervan based on 2013 VW Crafter. Short wheelbase, low-roof.
 
@@ -20,7 +20,7 @@ I'm located 2 miles outside Forres in the north of Scotland, approx 27 miles fro
 
 + VW Crafter CR35
 + Reflex Silver
-+ 58,000 miles
++ 59,000 miles
 + 2.0l Diesel
 + MOT till June 2022
 + Full service history with [GLM Motors](https://www.glmmotors.net/) in Elgin
@@ -51,6 +51,7 @@ Van is registered with DVLA as _Motorcaravan_ therefore _CAR_ speed limits.
 + Mercedes black alloy Wheels
 + Good quality Pioneer head-unit (Apple play - Sat Nav etc.)
 + Tow-bar  + Cruise control retro-fitted by VW Inverness.
++ Belts & Brake pipes changed @ 59000
 
 
 ### Insulation
@@ -104,4 +105,3 @@ The attached Google sheet gives details of everything I spent bulding this vehic
 
 + A few minor scratches to paintwork.
 + Small rust-bubble (1.5") on door runner.
-+ Probably due new belts
