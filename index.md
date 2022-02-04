@@ -5,7 +5,7 @@
 
 My custom-built campervan based on 2013 VW Crafter. Short wheelbase, low-roof.
 
-![](https://cvws.icloud-content.com/S/AcDEI6qJbw9F2QQ6jVtwCKdTxLqu/DAB09C24-F294-4E32-A9A4-94034426270C.JPG?o=AkAimyJA4uZbg24Q5NO48lwOdyjASFC1T5EGcK-uCCvH&v=1&z=https%3A%2F%2Fp63-content.icloud.com%3A443&x=1&a=CAogvJ2egOAlutyf6BInle-Iav7ZPjDwJ-YTvNf6szFvBLYSYxCz1vjErS8Ys-2Lyq0vIgEAUgRTxLquaiSL6-xcMPvP44j1K6MNtkMjj9rh4rIz7uaS-yaP7OLemK4G5VtyJE0qJorqeSv12b0e3jC0EpuWjk8Y_8NU0pNwjZG_6T16Dbq8IA&e=1627142682&r=b6a27590-f008-4cca-89ec-2fd38a1b51b8-2&s=9gJMU3I83AtWhwSjMZe7N2Z-xJ4)
+![](45455F39-3D3B-4711-B20B-58AF3F203F75.JPG)
 
 ## Contact
 
@@ -56,31 +56,31 @@ Van is registered with DVLA as _Motorcaravan_ therefore _CAR_ speed limits.
 
 ### Insulation
 
-Van was insulated with Thermolioner, natural sheeps wool, and flashband.
+Van was insulated with Thermoliner, natural sheep's wool, and flashband.
 
 ### Electrics
 
 + 110Ah Leisure Battery
-+ 2 x 100w Solar Panels to roof.
++ 2 x 100w Solar Panels to roof
 + MPPT Solar controller.
 + 3 x 240v Mains (when on hookup)
 + 2 x USB sockets
-+ LED lighting throughout.
-+ Touch-on LED ligts to rear.
++ LED lighting throughout
++ Touch-on LED ligts to rear
 + LED reading lights over bed
-+ Mains battery charger under passenger seat.
-+ Mains hook-up under bonnet.
++ Mains battery charger under passenger seat
++ Mains hook-up under bonnet
 + Split-charger
 
 
 ### Heating
 
-+ 2 kw Diesel Epberspacher heater - **NOT** cheap chinese clone.
++ Eberspacher D2 diesel heater - **NOT** cheap chinese clone.
 
 ### Appliances
 
-+  Dometic 2 burner Hob + Grill
-+  Top-loading compressor fridge
++  Thetford 2 burner Hob + Grill
++  Top-loading vitrifrigo compressor fridge
 +  Fire Extinguisher
 +  Smoke + Carbon monoxide detector
 
